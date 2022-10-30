@@ -70,4 +70,4 @@ function geradorDePorcentagem (percentual, inteiro) {
     let resultado = divisao (porcentagem, inteiro);
     return resultado;
 }
-console.log(geradorDePorcentagem(90,450));
+console.log(geradorDePorcentagem(100,450));
